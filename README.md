@@ -9,7 +9,6 @@
 SnapHunt is a lightweight Python tool for **image intelligence gathering (IMGINT)**.  
 It extracts metadata, generates cryptographic hashes, fetches system and host info, and builds direct reverse image search links — all in one report.
 
-![SnapHunt Screenshot](https://i.ibb.co/4ggprtJg/Screenshot-2025-08-14-161205.png)
 
 ---
 
