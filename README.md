@@ -33,7 +33,7 @@ It extracts metadata, generates cryptographic hashes, fetches system and host in
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/SnapHunt.git
+git clone https://github.com/ramizz1/SnapHunt.git
 cd SnapHunt
 pip install -r requirements.txt
 ```
